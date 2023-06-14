@@ -1,0 +1,1 @@
+Thư mục để lưu trữ các model cho mô hình của AI hoặc mạng neron.
