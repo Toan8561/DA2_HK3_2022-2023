@@ -2,7 +2,9 @@
 
 Sài loại vdk nào, kiến trúc bao nhiêu bit?
 
-VDK: 3 loại (8-16-32 bit), dùng kiến trúc của AVR bên Atmega, kiến trúc Pic, lỗi ARM cotex M bên stm32
+VDK: 3 loại (8-16-32 bit), dùng kiến trúc của AVR bên Atmega, kiến trúc Pic, lỗi ARM cotex M bên stm32.
+
+Đồ án lần nãy sẽ sử dụng vdk stm32
 
 
 Phần cứng sẽ được làm như thế nào?
