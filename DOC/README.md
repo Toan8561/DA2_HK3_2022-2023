@@ -1,1 +1,1 @@
-Nơi để các file word, power point, file pdf chi tiết về đề tài
+Nơi để lưu trữ các data cho quá trình train model
