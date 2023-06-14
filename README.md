@@ -1,7 +1,7 @@
 =======
 Báo cáo tuần 0.
 
-Chuẩn bị file word với chủ đề mà thấy khả thi nhất. ("X" là sợ không kịp, "+" có thể làm được)
+Chuẩn bị file word với chủ đề mà thấy khả thi nhất. ("X" là sợ không kịp, "+" có thể làm đuo)
 =======
 Một số đề tài gợi ý cho đồ án 2:
 X 1. Nhận diện đơn vị tiền VN (có khả năng thiếu data nhưng category không nhiều) >> yêu cầu ra sao?
