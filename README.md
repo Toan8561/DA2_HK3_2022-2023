@@ -1,13 +1,15 @@
 Báo cáo tuần 0.
 
+Chuẩn bị file word với chủ đề mà thấy khả thi nhất. ("X" là sợ không kịp, "+" có thể làm đc)
+
 Một số đề tài gợi ý cho đồ án 2:
-1. Nhận diện đơn vị tiền VN (có khả năng thiếu data nhưng category không nhiều)
-2. Nhận diện trái cây (có thể giới hạn category trong khu vực VN) 
+X 1. Nhận diện đơn vị tiền VN (có khả năng thiếu data nhưng category không nhiều) >> yêu cầu ra sao?
+X 2. Nhận diện trái cây (có thể giới hạn category trong khu vực VN) >> dataset yêu cầu rất lớn và có tính thực tế cao sợ không đủ thời gian
     data: https://www.kaggle.com/datasets/chrisfilo/fruit-recognition
-3. Nhận diện vân tay (chủ đề basic)
-4. Nhận diện cử chỉ tay (body language or sign language)
++ 3. Nhận diện vân tay (chủ đề basic) >> Khả thi, yêu cầu nghiên lý như thế nào.
+X 4. Nhận diện cử chỉ tay (body language or sign language) >> dataset quá lớn.
     data: https://www.kaggle.com/datasets/datamunge/sign-language-mnist
-5. Nhận diện biểu cảm
++ 5. Nhận diện biểu cảm >> Cho thông cho tiết về việc nhận nhận chữ cái hay câu chữ.          
     data: https://www.kaggle.com/datasets/chiragsoni/ferdata
 
 Chủ đề tui đề suất nhá:	Chủ đề tui đề suất nhá:
