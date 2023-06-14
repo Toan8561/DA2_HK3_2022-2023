@@ -7,3 +7,5 @@ Một số đề tài gợi ý cho đồ án 2:
 3. Nhận diện vân tay (chủ đề basic)
 4. Nhận diện cử chỉ tay (body language or sign language)
     data: https://www.kaggle.com/datasets/datamunge/sign-language-mnist
+5. Nhận diện biểu cảm
+    data: https://www.kaggle.com/datasets/chiragsoni/ferdata
