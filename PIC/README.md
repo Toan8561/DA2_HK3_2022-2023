@@ -1,0 +1,1 @@
+Thư mục để lưu trữ các ảnh cho đồ án
