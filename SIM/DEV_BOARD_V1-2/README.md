@@ -1,1 +1,0 @@
-file mô phỏng bẳng proteus bản 8.15 sp1

@@ -4,8 +4,7 @@
 			"path": "."
 		},
 		{
-			"name": "Test",
-			"path": "SRC/Test"
+			"path": "SRC/ESP32"
 		}
 	],
 	"settings": {}
