@@ -1,12 +1,7 @@
 {
-	"folders": [
-		{
-			"path": "."
-		},
-		{
-			"name": "Test",
-			"path": "SRC/Test"
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": "."
+        }
+    ]
 }
