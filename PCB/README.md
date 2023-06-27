@@ -1,1 +1,0 @@
-Chỗ để thực hiện thiết kế pcb, cho vdk, hay các phần cứng trong project này
