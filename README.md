@@ -1,26 +1,10 @@
 Chủ đề của file main sẽ được quyết định bởi thầy Sơn nhá.
 
 Link meet của nhóm: https://meet.google.com/xng-vccc-zpf
-<<<<<<< HEAD
-Đây là chủ để của Toàn về vdk cho hệ thống nhúng báo cháy cách điện cho smart house.
 
-Sài loại vdk nào, kiến trúc bao nhiêu bit?
+Chủ đề nhóm: Hệ thống báo cháy đa thiết bị dùng esp8266
 
-VDK: 3 loại (8-16-32 bit), dùng kiến trúc của AVR bên Atmega, kiến trúc Pic, lỗi ARM cotex M bên stm32.
-
-Đồ án lần nãy sẽ sử dụng vdk stm32
-
-
-Phần cứng sẽ được làm như thế nào?
-
-Phần cứng sẽ bao gồm kiểu kiến 8 bit thường không hỗ trợ bôt qua usb, nên phải làm code chuyển đổi
-
-Nguyên lý của phần cứng sẽ là những gì, giao tiếp sao?
-
-Sài chuẩn giao tiếp gì, làm sao để nạp firm ware cho vdk?
-
-Có thiết kế pcb không, yêu cầu sẽ ra sao?
-
-Chi phí để thực hiện sẽ là bao nhiêu?
-
+Nội dung: Sử dụng giao thức espnow đế thiết lập một mạng lưới peer to peer các node esp8266 với nhau. Người dùng có thể dùng web để điều khiển các node trong network.
+Mỗi node có chức năng đọc cảm biến nhiệt độ, khói khí gas, thực hiện đóng ngắt điện khi có khí làm cháy nổ, có lcd để cho người dùng điều khiển trực tiếp node đó.
+Node sẽ dùng fire base để làm code sở liệu.
 
